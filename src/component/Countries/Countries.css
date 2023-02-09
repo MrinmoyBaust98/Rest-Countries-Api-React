@@ -1,0 +1,8 @@
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+h1{
+    color: rgb(113, 45, 68);
+    font-size: 2rem;
+}
